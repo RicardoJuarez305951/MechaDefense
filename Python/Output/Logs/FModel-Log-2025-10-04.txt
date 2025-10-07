@@ -1,0 +1,4 @@
+2025-10-04 12:49:56 [FModel] [INF] Version 4.4.4.0 (c6c8cf201e1aed3413f72cd8d2386fdaf5a676eb)
+2025-10-04 12:49:56 [FModel] [INF] Windows 11 Home Single Language (64-bit)
+2025-10-04 12:49:56 [FModel] [INF] .NET 8.0.17
+2025-10-04 12:49:56 [FModel] [INF] Culture es-MX
